@@ -1,7 +1,7 @@
 - 👋 Hi, I’m HemantSingh
-- 👀 I’m interested in Data Analytics and Web developnment.
+- 👀 I’m interested in Data Science and Web developnment.
 - 🌱 I’m currently learning Django and R.
-- 💞️ I’m looking to collaborate on work on web developnment projects.
+- 💞️ I’m looking to collaborate on work on Data science, Data Analysis, Data Engineering projects.
 - 📫 How to reach me : hemant.ak203+Contact@gmail.com
 
 <!---
